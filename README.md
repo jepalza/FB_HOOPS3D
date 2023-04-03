@@ -16,13 +16,13 @@ HOOPS Graphics System/Copyright 1986-1994, 1995 by Autodesk
 hoy dia lo sigue vendiendo "Tech Soft 3D"
 
 La libreria se podía adquirir por módulos, y cada módulo permitía una serie de comandos diferentes.
-Por ejemplo, existían módulos A.I.R (Advanced Interactive Rendering)  y HOOPS I.M. (Intermediate Mode).
-En la biblioteca, solo estaba el módulo mas básico en modo demo, y es en ese en el que me he basado, por ser el único del que dispongo la DLL.
+Por ejemplo, existían módulos A.I.R (Advanced Interactive Rendering) y I.M. (Intermediate Mode).
+En la biblioteca, solo estaba el módulo mas básico en modo demo, y es en este en el que me he basado, por ser el único del que dispongo la DLL.
 
 El libro en concreto en el que he basado mi trabajo es:
 3D with HOOPS - Build Interactive 3d Graphics into your C++ Applications de su sautores WM Leler y Jim Merry, de 1996
 
-He creado dos ficheros BI con las llamadas mas comunes de la DLL básica, y algunos que he locaclizado por la red, mas avanzados, pero que no he podido probar, solo escribir. Esta librería tiene mas de 1500 funciones, y es prácticamente imposible probar todas, por que lo que desconozco si funcionara correctamente.
+He creado dos ficheros BI con las llamadas mas comunes de la DLL básica, y algunos que he localizado por la red, mas avanzados, pero que no he podido probar, solo escribir. Esta librería tiene mas de 1500 funciones, y es prácticamente imposible probar todas, por que lo que desconozco si funcionará correctamente.
 Dejo algún ejemplo de su funcionamiento.
 
 Si se dispone de licencia, esta se puede escribir en una línea como esta:
@@ -32,3 +32,5 @@ y seguido activarla:
 HC_Define_System_Options(lic)
 
 No puedo incluir la DLL demo, por que desconozco el alcance de los derechos de distribución. Si alguien los conoce, o sabe de una DLL mejorada y una licencia libre, que lo comunique.
+
+Se puede consultar información y manuales/comandos en la web "archive.org"
