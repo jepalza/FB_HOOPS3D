@@ -34,3 +34,10 @@ HC_Define_System_Options(lic)
 No puedo incluir la DLL demo, por que desconozco el alcance de los derechos de distribución. Si alguien los conoce, o sabe de una DLL mejorada y una licencia libre, que lo comunique.
 
 Se puede consultar información y manuales/comandos en la web "archive.org"
+
+![Imagen camaro.jpg](https://github.com/jepalza/FB_HOOPS3D/tree/main/imagenes/camaro.jpg)
+![Imagen colores.jpg](https://github.com/jepalza/FB_HOOPS3D/tree/main/imagenes/colores.jpg)
+![Imagen entidades.jpg](https://github.com/jepalza/FB_HOOPS3D/tree/main/imagenes/entidades.jpg)
+![Imagen simple_modelo.jpg](https://github.com/jepalza/FB_HOOPS3D/tree/main/imagenes/simple_modelo.jpg)
+![Imagen simple_raytracer.jpg](https://github.com/jepalza/FB_HOOPS3D/tree/main/imagenes/simple_raytracer.jpg)
+![Imagen superficie.jpg](https://github.com/jepalza/FB_HOOPS3D/tree/main/imagenes/superficie.jpg)
